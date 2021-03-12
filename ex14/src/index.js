@@ -5,7 +5,7 @@ function main(){
     var myAdjective = "big";
     var myAdverb = "quickly";
 
-    var wordBlanks = myNoun + " " + myVerb + " " + myAdjective + " " + myAdverb + ".";
+    var wordBlanks = "My " + myNoun + " can " + myVerb + " " + myAdverb + " and has " + myAdjective + " teeth" + ".";
     
     return wordBlanks;
 
