@@ -1,8 +1,7 @@
 function main(){
 
     var lastName = "Doe";
-    var lastNameLength;
-    lastNameLength = lastName.length;
+    var lastNameLength = lastName.length;
 
     return lastNameLength;
 
